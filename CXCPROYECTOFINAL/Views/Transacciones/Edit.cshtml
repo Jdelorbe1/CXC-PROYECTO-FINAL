@@ -1,0 +1,59 @@
+﻿@model CXCPROYECTOFINAL.Models.Transaccione
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Transaccione</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdentificadorTransaccion" />
+            <div class="form-group">
+                <label asp-for="TipoMovimiento" class="control-label"></label>
+                <input asp-for="TipoMovimiento" class="form-control" />
+                <span asp-validation-for="TipoMovimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdentificadorTipoDocumento" class="control-label"></label>
+                <input asp-for="IdentificadorTipoDocumento" class="form-control" />
+                <span asp-validation-for="IdentificadorTipoDocumento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumeroDocumento" class="control-label"></label>
+                <input asp-for="NumeroDocumento" class="form-control" />
+                <span asp-validation-for="NumeroDocumento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fecha" class="control-label"></label>
+                <input asp-for="Fecha" class="form-control" />
+                <span asp-validation-for="Fecha" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdentificadorCliente" class="control-label"></label>
+                <input asp-for="IdentificadorCliente" class="form-control" />
+                <span asp-validation-for="IdentificadorCliente" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Monto" class="control-label"></label>
+                <input asp-for="Monto" class="form-control" />
+                <span asp-validation-for="Monto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

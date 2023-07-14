@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CXCPROYECTOFINAL
+build_property.RootNamespace = CXCPROYECTOFINAL
+build_property.ProjectDir = C:\Users\josed\OneDrive\Escritorio\CXCPROYECTOFINAL\CXCPROYECTOFINAL\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\josed\OneDrive\Escritorio\CXCPROYECTOFINAL\CXCPROYECTOFINAL
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/AsientosContables/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/AsientosContables/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/AsientosContables/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/AsientosContables/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/AsientosContables/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZW50b3NDb250YWJsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/TiposDocumentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NEb2N1bWVudG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/TiposDocumentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NEb2N1bWVudG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/TiposDocumentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NEb2N1bWVudG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/TiposDocumentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NEb2N1bWVudG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/TiposDocumentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NEb2N1bWVudG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Transacciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Transacciones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Transacciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Transacciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Transacciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/josed/OneDrive/Escritorio/CXCPROYECTOFINAL/CXCPROYECTOFINAL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-9o0atz8tcf
